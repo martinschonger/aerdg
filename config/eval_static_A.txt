@@ -1,0 +1,13 @@
+alpha=6.0
+num_vertices=144
+partition_size=2 4 8 16 32 64
+num_partitions=72 36 18 9 5 3
+augmentation=2.1
+gamma=1.0
+time_warp=1
+theta=0.0
+database_name=p_fab
+collection_name=trace_0_5
+num_requests=500000
+num_runs=10
+algs=STATIC

@@ -1,0 +1,13 @@
+alpha=2.0
+num_vertices=27358
+partition_size=32
+num_partitions=855
+augmentation=2.1
+gamma=0.7
+time_warp=400
+theta=0.0
+database_name=facebook
+collection_name=clusterC
+num_requests=50000
+num_runs=10
+algs=CC HOP

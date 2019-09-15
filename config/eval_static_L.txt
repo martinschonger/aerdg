@@ -1,0 +1,13 @@
+alpha=6.0
+num_vertices=1024
+partition_size=2 4 8 16 32 64
+num_partitions=512 256 128 64 32 16
+augmentation=2.1
+gamma=1.0
+time_warp=1
+theta=0.0
+database_name=hpc
+collection_name=exact_boxlib_multigrid_c_large
+num_requests=30000
+num_runs=10
+algs=STATIC

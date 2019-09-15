@@ -1,0 +1,13 @@
+alpha=6.0
+num_vertices=144
+partition_size=32
+num_partitions=5
+augmentation=2.1
+gamma=0.7
+time_warp=400
+theta=0.0
+database_name=p_fab
+collection_name=trace_0_5
+num_requests=500000
+num_runs=10
+algs=1HOP HOP 3HOP 4HOP
