@@ -1,6 +1,6 @@
 # Algorithm Engineering for Repartitioning Dynamic Graphs
 
-This project was created as part of my Bachelor's Thesis in Informatics _Algorithm Engineering for Repartitioning Dynamic Graphs_ at TU Munich. [Link to PDF will be added after the colloquium]
+This project was created as part of my Bachelor's Thesis in Informatics _Algorithm Engineering for Repartitioning Dynamic Graphs_ at TU Munich. [Please contact martin.schonger(at)tum.de to obtain a copy.]
 
 ## HOPage in code
 ```cpp
