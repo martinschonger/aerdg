@@ -1,6 +1,6 @@
 # Algorithm Engineering for Repartitioning Dynamic Graphs
 
-This project was created as part of my Bachelor's Thesis in Informatics _Algorithm Engineering for Repartitioning Dynamic Graphs_ at TU Munich. [Please contact martin.schonger(at)tum.de to obtain a copy.]
+This project was created as part of my Bachelor's Thesis in Informatics at the Technical University of Munich, titled _Algorithm Engineering for Repartitioning Dynamic Graphs_. The final thesis is available at [thesis.pdf](thesis.pdf).
 
 ## HOPage in code
 ```cpp
@@ -78,3 +78,8 @@ Here we break down the theoretical worst-case complexity of **_O(n^3 logn)_** th
 ## Acknowledgement
 
 I would like to thank my advisors, Prof. Dr. Harald Räcke and Univ.-Prof. Dr. Stefan Schmid, for all the insightful discussions and their continuous support.
+
+<br/>
+
+Copyright © 2020 Martin Schonger  
+This work is licensed under the GPLv3.
